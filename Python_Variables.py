@@ -64,7 +64,7 @@ The Global variable with the same name will remain
 same as it was and with the same value'''
 k = 'AWESOMENEW'
 def myfuncnew():
-	h = "AWOSOME CHANGED TO GOOD"
+	k = "AWOSOME CHANGED TO GOOD"
 	print("python is - "+k)
 myfuncnew()
 print(k)
