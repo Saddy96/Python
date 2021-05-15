@@ -1,0 +1,25 @@
+Incident Managemant System (IMS)
+
+Incident management system is an process to manage the Isseus raised in any organization or place.
+
+
+Users can create an unique account per user and do the process check using the credentials.
+
+**MANDATORY FILES*****
+
+1 Incident Management System.ipynb
+2 ITEngData.txt
+3 LoginDetails.txt
+4 Credentials.txt
+
+STEPS:
+1
+RESTART AND RUN ALL
+
+2
+User Credentails:
+	UserName - John
+	Password - john
+
+*or any other credentials can be used based on the Credentials.txt file
+
