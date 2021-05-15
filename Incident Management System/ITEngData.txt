@@ -1,0 +1,44 @@
+{
+    "ticket1": {
+        "raisedBy": "John",
+        "asignedTo": "Kim",
+        "ticketIssue": "Require New Software",
+        "ticketStatus": "Completed"
+    },
+    "ticket2": {
+        "raisedBy": "Wick",
+        "asignedTo": "Kim",
+        "ticketIssue": "OS not working",
+        "ticketStatus": "Pending"
+    },
+    "ticket3": {
+        "raisedBy": "Ram",
+        "asignedTo": "Larry",
+        "ticketIssue": "Laptop Required",
+        "ticketStatus": "Aprroval From Business Unit"
+    },
+    "ticket4": {
+        "raisedBy": "John",
+        "asignedTo": "Kim",
+        "ticketIssue": "New Laptop",
+        "ticketStatus": "Completed"
+    },
+    "ticket5": {
+        "raisedBy": "John",
+        "asignedTo": "Kim",
+        "ticketIssue": "Login issue",
+        "ticketStatus": "Pending"
+    },
+    "ticket6": {
+        "raisedBy": "John",
+        "asignedTo": "Larry",
+        "ticketIssue": "Adobe software required",
+        "ticketStatus": "Pending"
+    },
+    "ticket7": {
+        "raisedBy": "John",
+        "asignedTo": "Kim",
+        "ticketIssue": "USB not working",
+        "ticketStatus": "Pending"
+    }
+}

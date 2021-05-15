@@ -1,0 +1,27 @@
+{ 
+                "Admin": {
+							"Admin1":{
+                            		"userId": "Administrator",
+                                    "password": "admin"}
+                                    },
+                "User": {
+                			"User1":{
+                            		"userId": "John",
+                                    "password": "john"
+                                    },
+                             "User2":{
+                            		"userId": "Wick",
+                                    "password": "wick"
+                                    }
+                         },
+                 "ITEng": {
+                			"ITEng1":{
+                            		"userId": "Kim",
+                                    "password": "kim"
+                                    },
+                             "ITEng2":{
+                            		"userId": "Larry",
+                                    "password": "larry"
+                                    }
+                         }
+                }
