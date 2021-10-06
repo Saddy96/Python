@@ -1,0 +1,27 @@
+INCIDENT MANAGEMENT SYSTEM
+
+STEP1: CLICK on SIGN UP and register with any credentials
+STEP2: Enter Username and Password and CLick REGISTER
+STEP3: It will show Registration success
+STEP4: Click on Go Back
+STEP5: Click on SIGN IN to login in now
+STEP6: Enter the created username and password
+STEP7: Click on Login in button
+STEP8: If the password is correct it will navigate to main screen
+STEP9: YOUR LOGGED IN USERNAME will be shown on top in green box
+STEP10: If you have logged in for the first time then you need to create a tickets
+STEP11: Follow below steps to create a tickets
+STEP12: raisedBy value - any name
+STEP13: assignedTo - any name but use the same name with which you have logged in
+STEP14: ticketIssue - mention the issue for the request
+STEP15: click on INSERT button to raise the tickets
+
+STEP16: click on GET button to get all the assigned tickets to the logged-in eng.
+STEP17: A new window will appear where it will show all the tickets in list.
+STEP18: Click on Go Back to come to previous screen to do any other fucntionality.
+
+STEP19: ticket udpdate steps
+STEP20: enter the ticket no for which u want to update the status
+STEP21: click UPDATE TICKET to update the ticket
+
+STEP22: FOllow step 16 to 18 to check the updated assigned tickets to eng
